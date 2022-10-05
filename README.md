@@ -1,0 +1,1 @@
+This project is my path into QA automatisation via lessons on https://stepik.org/course/575/syllabus
